@@ -1,3 +1,5 @@
 # Code Refactor Starter Code
-test
+
+The purpose is to do it better.
+
 # 01-challenge
