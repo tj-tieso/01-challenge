@@ -4,7 +4,7 @@
 
 Horiseon has hired me to update the code base of their website to meet accesiblity standards in order to be optimized for search engines.
 
-[Horiseon](./Develop/index.html)
+[Horiseon](./)
 
 ## Client's Criteria
 
@@ -30,4 +30,6 @@ Webpage is to look like the following image:
 
 ## Contribution
 
-Made with ❤️❤️❤️❤️ by your Dread Lord and Master Trevor T.
+Code base written by Horiseon Team.
+
+Refactor Forged in 🔥🔥🔥 by your Dread Lord and Master Trev(or)
