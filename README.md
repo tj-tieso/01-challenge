@@ -4,7 +4,7 @@
 
 Horiseon has hired me to update the code base of their website to meet accesiblity standards in order to be optimized for search engines.
 
-[Horiseon](./)
+[Horiseon](https://tj-tieso.github.io/01-challenge/)
 
 ## Client's Criteria
 
@@ -26,9 +26,9 @@ GIVEN a webpage meets accessibility standards
    -THEN I find a concise, descriptive title
 
 Webpage is to look like the following image:
-[mockup](Develop\assets\images\horiseon-mockup.png).
+[mockup](/assets/images/horiseon-mockup.png).
 
-## Contribution
+### Contribution
 
 Code base written by Horiseon Team.
 
